@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-green?style=for-the-badge)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-![ThughLock Screenshot](assets/screenshot.png)
+![ThughLock Logo](logo.png)
 
 ThughLock is a modern, offline password generator built with Python and CustomTkinter. It helps you create tough-to-crack yet easy-to-remember passwords using various smart patterns.
 
